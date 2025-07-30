@@ -1,0 +1,16 @@
+Q: Which of the following is NOT a type of volcano?
+Options: ['Cinder Cone Volcanoes', 'Complex Volcanoes', 'Shield Volcanoes', 'Strato Volcanoes']
+Answer: c | Reason: Cardo volcanoes are formed by layers of lava and ash over time and are not considered a type of volcano alongside the other options.
+
+Q: Which of the following does NOT have a nucleus?
+Options: ['Bone cells', 'Muscle cells', 'Stem cells', 'Blood cells']
+Answer: d | Reason: Blood cells (also known as hematopoietic cells) are formed through a process called hematopoiesis, which occurs within the bone marrow, and do not have a nucleus, unlike most other human cells.
+
+Q: Which of the following does NOT conduct electricity?
+Options: ['Copper Wire', 'Paper Clip', 'Water', 'Salt']
+Answer: b | Reason: Conductivity refers to the ability of a substance to transfer electricity, and materials that do not allow electricity to flow through them are called insulators. Paper clips are made of insulating materials such as steel or plastic that do not conduct electricity. Copper wire and salt are good conductors of electricity while water is a conductor albeit a poor one.
+
+Q: Which of the following is NOT a characteristic of the Solar System?
+Options: ['Controlled by humans', 'Distance from the galactic center', 'Shape and structure', 'Neutron star formation']
+Answer: b | Reason: The Solar System is a part of the Milky Way, but the Milky Way is only one of billions of galaxies in the universe.  Thus, the Solar System's distance from the galactic center is not a characteristic of the system itself, unlike the others listed.
+
