@@ -1,0 +1,29 @@
+.stats-container {
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    text-align: center;
+  }
+  
+  .stats-card {
+    margin: 1rem auto;
+    padding: 1rem;
+    max-width: 500px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    text-align: left;
+  }
+  
+  .suggestion-box {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #e0f7fa;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+  }
+  
