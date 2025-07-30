@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  min-height: 100vh;
+}
+
+header {
+  background-color: #1e3a8a;
+  padding: 1rem;
+  color: white;
+}
+
+.navbar {
+  margin-top: 0.5rem;
+}
+
+.nav-link {
+  margin: 0 1rem;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
